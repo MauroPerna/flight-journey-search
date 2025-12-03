@@ -33,7 +33,7 @@ pip install poetry
 Cloná el repositorio y ubicáte en el proyecto:
 
 ```bash
-git clone <url-del-repo>
+git clone https://github.com/MauroPerna/flight-journey-search
 cd flight-journey-search
 ```
 
