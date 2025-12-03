@@ -58,6 +58,12 @@ poetry shell
 
 ## 3. Ejecutar el servidor
 
+### Primero
+
+```bash
+cp env.example .env
+```
+
 ### Opción A — usando Poetry (recomendada)
 
 ```bash
@@ -81,8 +87,9 @@ http://localhost:8000
 ## 4. Estructura del proyecto
 
 ```
+env.example
+main.py
 src/
-  main.py
   application/
     app.py
     container.py
