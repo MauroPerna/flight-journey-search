@@ -1,0 +1,97 @@
+# --------------------------------------
+# Python
+# --------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Byte-compiled / optimized / DLL files
+*.pyo
+*.pyd
+*.pdb
+*.so
+*.dylib
+
+# Distribution / packaging
+build/
+dist/
+eggs/
+.eggs/
+*.egg-info/
+*.egg
+
+# --------------------------------------
+# Poetry Virtualenvs
+# --------------------------------------
+# Poetry default venv location
+**/.venv/
+# Poetry cached venvs
+/Users/*/Library/Caches/pypoetry/virtualenvs/
+
+# Pipenv / other envs
+Pipfile.lock
+
+# --------------------------------------
+# FastAPI / Uvicorn
+# --------------------------------------
+*.db
+instance/
+*.log
+
+# --------------------------------------
+# dotenv
+# --------------------------------------
+.env
+.env.*
+!.env.example
+
+# --------------------------------------
+# pytest
+# --------------------------------------
+.pytest_cache/
+.cache/
+.coverage
+htmlcov/
+coverage.xml
+pytestdebug.log
+
+# --------------------------------------
+# VSCode / IDEs
+# --------------------------------------
+.vscode/
+.idea/
+*.iml
+
+# --------------------------------------
+# macOS
+# --------------------------------------
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# --------------------------------------
+# Jupyter / Notebooks
+# --------------------------------------
+.ipynb_checkpoints
+*.ipynb
+
+# --------------------------------------
+# Logs
+# --------------------------------------
+logs/
+*.log
+*.out
+*.err
+
+# --------------------------------------
+# MyPy / Type checking
+# --------------------------------------
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# --------------------------------------
+# Misc
+# --------------------------------------
+**/.pytest_cache/
+**/__pycache__/

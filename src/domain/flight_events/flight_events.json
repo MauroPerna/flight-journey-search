@@ -1,0 +1,180 @@
+[
+  {
+    "event_id": "AR1000-2025-02-01",
+    "flight_number": "AR1000",
+    "from": "EZE",
+    "to": "MIA",
+    "departure_time": "2025-02-01T08:00:00",
+    "arrival_time": "2025-02-01T16:00:00"
+  },
+
+  {
+    "event_id": "AR2000-2025-02-01",
+    "flight_number": "AR2000",
+    "from": "EZE",
+    "to": "MAD",
+    "departure_time": "2025-02-01T09:00:00",
+    "arrival_time": "2025-02-01T21:00:00"
+  },
+  {
+    "event_id": "IB2001-2025-02-01",
+    "flight_number": "IB2001",
+    "from": "MAD",
+    "to": "MIA",
+    "departure_time": "2025-02-01T22:00:00",
+    "arrival_time": "2025-02-02T05:00:00"
+  },
+
+  {
+    "event_id": "LA3000-2025-02-01",
+    "flight_number": "LA3000",
+    "from": "EZE",
+    "to": "GRU",
+    "departure_time": "2025-02-01T07:00:00",
+    "arrival_time": "2025-02-01T10:00:00"
+  },
+  {
+    "event_id": "AA3001-2025-02-01",
+    "flight_number": "AA3001",
+    "from": "GRU",
+    "to": "MIA",
+    "departure_time": "2025-02-01T12:00:00",
+    "arrival_time": "2025-02-01T18:30:00"
+  },
+  {
+    "event_id": "AA9999-2025-02-01",
+    "flight_number": "AA9999",
+    "from": "GRU",
+    "to": "MIA",
+    "departure_time": "2025-02-01T16:00:00",
+    "arrival_time": "2025-02-01T22:00:00"
+  },
+
+  {
+    "event_id": "AV4000-2025-02-01",
+    "flight_number": "AV4000",
+    "from": "EZE",
+    "to": "BOG",
+    "departure_time": "2025-02-01T06:00:00",
+    "arrival_time": "2025-02-01T10:00:00"
+  },
+  {
+    "event_id": "AV4001-2025-02-02",
+    "flight_number": "AV4001",
+    "from": "BOG",
+    "to": "MIA",
+    "departure_time": "2025-02-02T15:00:00",
+    "arrival_time": "2025-02-02T21:00:00"
+  },
+
+  {
+    "event_id": "AR1001-2025-02-02",
+    "flight_number": "AR1001",
+    "from": "EZE",
+    "to": "MIA",
+    "departure_time": "2025-02-02T09:00:00",
+    "arrival_time": "2025-02-02T17:00:00"
+  },
+
+  {
+    "event_id": "HK100-2025-03-05",
+    "flight_number": "HK100",
+    "from": "HKG",
+    "to": "NRT",
+    "departure_time": "2025-03-05T07:30:00",
+    "arrival_time": "2025-03-05T12:30:00"
+  },
+
+  {
+    "event_id": "HK200-2025-03-05",
+    "flight_number": "HK200",
+    "from": "HKG",
+    "to": "MNL",
+    "departure_time": "2025-03-05T08:00:00",
+    "arrival_time": "2025-03-05T10:00:00"
+  },
+  {
+    "event_id": "PR201-2025-03-05",
+    "flight_number": "PR201",
+    "from": "MNL",
+    "to": "NRT",
+    "departure_time": "2025-03-05T12:00:00",
+    "arrival_time": "2025-03-05T17:00:00"
+  },
+  {
+    "event_id": "PR202-2025-03-05",
+    "flight_number": "PR202",
+    "from": "MNL",
+    "to": "NRT",
+    "departure_time": "2025-03-05T15:00:00",
+    "arrival_time": "2025-03-05T20:00:00"
+  },
+
+  {
+    "event_id": "LH100-2025-04-10",
+    "flight_number": "LH100",
+    "from": "FRA",
+    "to": "CDG",
+    "departure_time": "2025-04-10T08:00:00",
+    "arrival_time": "2025-04-10T09:30:00"
+  },
+  {
+    "event_id": "AF101-2025-04-10",
+    "flight_number": "AF101",
+    "from": "CDG",
+    "to": "LHR",
+    "departure_time": "2025-04-10T11:00:00",
+    "arrival_time": "2025-04-10T12:00:00"
+  },
+  {
+    "event_id": "AF102-2025-04-10",
+    "flight_number": "AF102",
+    "from": "CDG",
+    "to": "LHR",
+    "departure_time": "2025-04-10T09:15:00",
+    "arrival_time": "2025-04-10T10:15:00"
+  },
+
+  {
+    "event_id": "DL500-2025-03-06",
+    "flight_number": "DL500",
+    "from": "NRT",
+    "to": "LAX",
+    "departure_time": "2025-03-06T16:00:00",
+    "arrival_time": "2025-03-07T06:00:00"
+  },
+
+  {
+    "event_id": "AR1500-2025-01-20",
+    "flight_number": "AR1500",
+    "from": "EZE",
+    "to": "SCL",
+    "departure_time": "2025-01-20T07:00:00",
+    "arrival_time": "2025-01-20T10:00:00"
+  },
+  {
+    "event_id": "LA1501-2025-01-20",
+    "flight_number": "LA1501",
+    "from": "SCL",
+    "to": "MIA",
+    "departure_time": "2025-01-20T15:30:00",
+    "arrival_time": "2025-01-20T23:30:00"
+  },
+
+  {
+    "event_id": "BA600-2025-02-10",
+    "flight_number": "BA600",
+    "from": "LHR",
+    "to": "JFK",
+    "departure_time": "2025-02-10T12:00:00",
+    "arrival_time": "2025-02-10T15:00:00"
+  },
+  {
+    "event_id": "BA601-2025-02-10",
+    "flight_number": "BA601",
+    "from": "JFK",
+    "to": "LHR",
+    "departure_time": "2025-02-10T17:00:00",
+    "arrival_time": "2025-02-11T05:00:00"
+  }
+]
